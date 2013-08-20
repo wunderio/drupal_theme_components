@@ -1,4 +1,4 @@
-drupal\_theme\_components
+drupal_theme_components
 =======================
 
 Pluggable Drupal theme components and code snippets
@@ -31,4 +31,4 @@ A variant is basically a new component, which only contains the distinguished fi
  * Same structure like a normal component
 
 ## Example component:
-*Fuzzybear* - The bear can be found in the "fuzzybear" folder.
+[*Fuzzybear*](fuzzybear/README.md) - The bear can be found in the "fuzzybear" folder.
